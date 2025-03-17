@@ -1,2 +1,3 @@
 # Final-Year-Project
 This repository will contain the code for my final year project
+My project Yoga Harmony is a web-application that provides information on how Yoga discipline can help us improve our life thru well-being. If offers different types of Yoga classes that can be booked by members only, from Yin Yoga which is a slow-paced practice that targets the deep connected tissue in the body, to Hatha Yoga – a more dynamic practice, Meditation that teaches us to calm down the nervous system and Pranayama practices also known as breathing exercises studied to enhance the life energy in the body. 
