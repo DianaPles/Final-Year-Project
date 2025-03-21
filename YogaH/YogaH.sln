@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YogaBackOffice", "YogaBackOffice\YogaBackOffice.csproj", "{C778152C-EACA-4B8F-9347-CD3F10766A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YogaHFrontOffice", "YogaHFrontOffice\YogaHFrontOffice.csproj", "{741B49CD-EE7A-45C5-8F08-71A325A02FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C778152C-EACA-4B8F-9347-CD3F10766A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C778152C-EACA-4B8F-9347-CD3F10766A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C778152C-EACA-4B8F-9347-CD3F10766A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C778152C-EACA-4B8F-9347-CD3F10766A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741B49CD-EE7A-45C5-8F08-71A325A02FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741B49CD-EE7A-45C5-8F08-71A325A02FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741B49CD-EE7A-45C5-8F08-71A325A02FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741B49CD-EE7A-45C5-8F08-71A325A02FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50334104-26C2-41CA-BF1A-0E8879CA502D}
+	EndGlobalSection
+EndGlobal
